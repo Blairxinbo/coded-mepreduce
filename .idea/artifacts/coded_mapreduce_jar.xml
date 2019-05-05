@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="coded-mapreduce:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/coded_mapreduce_jar</output-path>
+    <root id="archive" name="coded-mapreduce.jar">
+      <element id="module-output" name="coded-mapreduce" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/net.java.dev.jna/jna/jars/jna-4.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.pcap4j/pcap4j-core/jars/pcap4j-core-1.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
